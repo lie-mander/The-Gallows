@@ -1,0 +1,4 @@
+﻿  FGallows.cpp
+D:\PROGRAMMING\The gallows\FGallows.cpp(17,73): warning C4267: 'return': conversion from 'size_t' to 'int32', possible loss of data
+D:\PROGRAMMING\The gallows\FGallows.cpp(305,34): warning C4267: 'initializing': conversion from 'size_t' to 'int32', possible loss of data
+  The gallows.vcxproj -> D:\PROGRAMMING\The gallows\x64\Debug\The gallows.exe
